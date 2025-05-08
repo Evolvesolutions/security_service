@@ -760,7 +760,7 @@
   .form-wrapper {
     flex: 1;
     min-width: 500px;
-    max-width: 600px;
+    max-width: 400px;
     background: #ffffff;
     padding: 25px 30px;
     border-radius: 12px;
